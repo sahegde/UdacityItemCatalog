@@ -16,4 +16,4 @@ Steps you need to follow to start
 4) Run your application within the VM (python /vagrant/catalog/application.py)
 5) Access and test your application by visiting http://localhost:8000 locally 
 
-
+Credits - https://github.com/udacity/Full-Stack-Foundations
